@@ -88,7 +88,7 @@ MySQL
 - Edit Task
 - Delete Task
 - Update Status
-=======
+  
 # project
 <img width="1210" height="745" alt="image" src="https://github.com/user-attachments/assets/def440ef-eacb-4384-919e-3697a5b997ab" />
 
